@@ -1,0 +1,11 @@
+[package]
+name = "NavChain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+TradingCardGame = "0x11fd33dca9268e6af19ec608b413ec50eba1b5f35c78cb0b7d2c6120d46060f5"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-token-objects" }
