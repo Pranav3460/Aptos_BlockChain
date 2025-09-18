@@ -53,8 +53,9 @@ We aim to bridge traditional card gaming with modern blockchain technology, crea
 - **Esports Integration**: Professional competitive leagues and tournaments
 - **Community Creation Tools**: Allow players to design and mint custom cards
 
-- https://explorer.aptoslabs.com/txn/0xfdc0efd05573bf26cde6c71bc1d6fd2d14ae6ea451daa7d9ed82af715547c54c?network=devnet
 -  "transaction_hash": "0xfdc0efd05573bf26cde6c71bc1d6fd2d14ae6ea451daa7d9ed82af715547c54c",
+---
+<img width="577" height="442" alt="image" src="https://github.com/user-attachments/assets/d625dc7b-4930-4b4a-9adc-1e9ca65917e8" />
 
 ---
 
